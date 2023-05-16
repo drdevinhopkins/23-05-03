@@ -1,0 +1,7 @@
+streamlit
+soundfile
+streamlit-webrtc
+openai-whisper
+SpeechRecognition
+pydub
+twilio
