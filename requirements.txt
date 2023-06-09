@@ -5,3 +5,6 @@ openai-whisper
 SpeechRecognition
 pydub
 twilio
+langchain
+openai
+python-dotenv
